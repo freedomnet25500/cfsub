@@ -243,6 +243,11 @@ vless://de44b044-8f90-4e18-b742-16591667ff96@129.146.221.78:443?encryption=none&
 vless://de44b044-8f90-4e18-b742-16591667ff96@132.226.7.217:443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-243
 vless://de44b044-8f90-4e18-b742-16591667ff96@192.9.180.162:443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-244
 vless://de44b044-8f90-4e18-b742-16591667ff96@141.144.198.113:8443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-245
+vless://de44b044-8f90-4e18-b742-16591667ff96@20.221.32.145:443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-246
+vless://de44b044-8f90-4e18-b742-16591667ff96@40.123.42.160:8443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-247
+vless://de44b044-8f90-4e18-b742-16591667ff96@4.172.225.98:8443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-248
+vless://de44b044-8f90-4e18-b742-16591667ff96@4.239.248.70:8443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-249
+vless://de44b044-8f90-4e18-b742-16591667ff96@20.151.63.165:8443?encryption=none&security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048#cf-250
 
 
 
